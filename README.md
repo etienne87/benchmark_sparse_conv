@@ -5,4 +5,4 @@ simple benchmark around spatially sparse convolutions
 - [x] Test against https://github.com/traveller59/spconv (this one is much much faster)
 - [ ] Do graphs
 - [ ] Test against dense convolutions
-- [ ] Test against Sparse Blockhttps://github.com/uber-research/sbnet
+- [ ] Test against Sparse Block "SBNet": https://github.com/uber-research/sbnet
